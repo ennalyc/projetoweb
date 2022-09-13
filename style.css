@@ -58,6 +58,7 @@ nav {
 
 .nav_menu a{
     font-size: 0.9rem;
+    font-weight: bold;
     color: #CBC8FF;
     text-shadow: 2px 2px 8px #d4d4d4;
     ;
@@ -291,7 +292,7 @@ section{
 }
 .description{
     font-size: 13px;
-    color: #FBEB97;
+    color: #9993ff;
     text-align: center;
     /* position: relative;
     bottom: 45px;
@@ -302,7 +303,7 @@ section{
     font-size: 16px;
     color: #fff;
     padding: 8px 16px;
-    background-color: #CBC8FF;
+    background-color: #FFA9DC;
     border-radius: 30px;
     margin: 14px;
     cursor: pointer;
@@ -314,7 +315,7 @@ section{
     color: #fff;
 }
 .button:hover{
-    background: #9993ff;
+    background: #fa7cc7;
 }
 .swiper-navBtn{
     color: #FFA9DC;
@@ -459,7 +460,4 @@ section{
         grid-template-columns: repeat(1, auto);
         gap: 1.5rem;
   }
-
-  @media (max-width: 1200px) {
-
   }
